@@ -1,7 +1,7 @@
 def sumBetween(x,y):
     bazinga = 0
     
-    for i in range(x + 5,y):
+    for i in range(x + 1,y):
         bazinga = bazinga + i
 
     return bazinga
